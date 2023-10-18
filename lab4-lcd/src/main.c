@@ -57,8 +57,8 @@ int main(void)
     lcd_gotoxy(2, 0);
     lcd_puts("0");
 
-    ///lcd_gotoxy(3, 0);
-    //lcd_puts("0");
+    lcd_gotoxy(3, 0);
+    lcd_puts("0");
 
     lcd_gotoxy(4, 0);
     lcd_puts(".");
